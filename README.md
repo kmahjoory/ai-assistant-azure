@@ -2,8 +2,7 @@
 
 This guide demonstrates how to build a chatbot that enhances ChatGPT with personalized data, using the Retrieval-Augmented Generation (RAG) pattern along with vector search. It presents three methods for solving this problem: working directly with OpenAI's APIs, utilizing LangChain, and applying Semantic Kernel.
 
-| Update: For those wanting to use a more up-to-date version of OpenAI's API, refer to the modifications in [this pull request](https://github.com/bstollnitz/rag/pull/2).<br/> A big thanks to [@xcvil](https://github.com/xcvil) for making these improvements! |
-|------|
+
 
 ## Requirements
 - You must have an Azure subscription. If you don’t have one, you can obtain a [free Azure subscription](https://azure.microsoft.com/en-us/free).
