@@ -1,1 +1,1 @@
-# TimeTracker Project
+# AI Assistant Project
