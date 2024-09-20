@@ -1,4 +1,4 @@
-## Incorporating Custom Data into LLMs
+## Question Answering AI-assistant using Azure AI reseraches
 
 This project implements a Question answering AI-assistant which reponds questions only based on a source of knowledge, using the Retrieval-Augmented Generation (RAG) pattern along with vector search. It implements the assistant using three packages: OpenAI's APIs, utilizing LangChain, and Semantic Kernel.
 
